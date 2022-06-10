@@ -1,0 +1,439 @@
+# depslib dependency file v1.0
+1589222603 source:d:\ufsm\disciplinas\computacao grafica\demos\gl_1_canvasglut\src\gl_canvas2d.cpp
+	"gl_canvas2d.h"
+	<GL/glut.h>
+
+1603974868 d:\ufsm\disciplinas\computacao grafica\demos\gl_1_canvasglut\src\gl_canvas2d.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+	"Vector2.h"
+
+1426372440 d:\ufsm\disciplinas\computacao grafica\demos\gl_1_canvasglut\include\gl\glut.h
+	"freeglut_std.h"
+
+1437579942 d:\ufsm\disciplinas\computacao grafica\demos\gl_1_canvasglut\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1426372440 d:\ufsm\disciplinas\computacao grafica\demos\gl_1_canvasglut\include\gl\freeglut_ext.h
+	<stdarg.h>
+
+1589217858 d:\ufsm\disciplinas\computacao grafica\demos\gl_1_canvasglut\src\vector2.h
+
+1603975055 source:d:\ufsm\disciplinas\computacao grafica\demos\gl_1_canvasglut\src\main.cpp
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	"gl_canvas2d.h"
+	"Bola.h"
+	"Relogio.h"
+	"Botao.h"
+
+1589214882 d:\ufsm\disciplinas\computacao grafica\demos\gl_1_canvasglut\src\bola.h
+	"gl_canvas2d.h"
+
+1193164156 d:\ufsm\disciplinas\computacao grafica\demos\gl_1_canvasglut\src\relogio.h
+	"gl_canvas2d.h"
+
+1589214891 d:\ufsm\disciplinas\computacao grafica\demos\gl_1_canvasglut\src\botao.h
+	"gl_canvas2d.h"
+
+1589218349 source:d:\ufsm\disciplinas\computacao grafica\demos\gl_1_canvasglut\src\relogio.cpp
+	"Relogio.h"
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+
+1589222603 source:c:\users\lpsev\downloads\cg\demos\gl_1_canvasglut\src\gl_canvas2d.cpp
+	"gl_canvas2d.h"
+	<GL/glut.h>
+
+1603974868 c:\users\lpsev\downloads\cg\demos\gl_1_canvasglut\src\gl_canvas2d.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+	"Vector2.h"
+
+1426372440 c:\users\lpsev\downloads\cg\demos\gl_1_canvasglut\include\gl\glut.h
+	"freeglut_std.h"
+
+1437579942 c:\users\lpsev\downloads\cg\demos\gl_1_canvasglut\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1426372440 c:\users\lpsev\downloads\cg\demos\gl_1_canvasglut\include\gl\freeglut_ext.h
+	<stdarg.h>
+
+1589217858 c:\users\lpsev\downloads\cg\demos\gl_1_canvasglut\src\vector2.h
+
+1603975055 source:c:\users\lpsev\downloads\cg\demos\gl_1_canvasglut\src\main.cpp
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	"gl_canvas2d.h"
+	"Bola.h"
+	"Relogio.h"
+	"Botao.h"
+
+1589214882 c:\users\lpsev\downloads\cg\demos\gl_1_canvasglut\src\bola.h
+	"gl_canvas2d.h"
+
+1193164156 c:\users\lpsev\downloads\cg\demos\gl_1_canvasglut\src\relogio.h
+	"gl_canvas2d.h"
+
+1589214891 c:\users\lpsev\downloads\cg\demos\gl_1_canvasglut\src\botao.h
+	"gl_canvas2d.h"
+
+1589218349 source:c:\users\lpsev\downloads\cg\demos\gl_1_canvasglut\src\relogio.cpp
+	"Relogio.h"
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+
+1589222603 source:c:\users\lpsev\downloads\cg\demos\bezier\src\gl_canvas2d.cpp
+	"gl_canvas2d.h"
+	<GL/glut.h>
+
+1603974868 c:\users\lpsev\downloads\cg\demos\bezier\src\gl_canvas2d.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+	"Vector2.h"
+
+1426372440 c:\users\lpsev\downloads\cg\demos\bezier\include\gl\glut.h
+	"freeglut_std.h"
+
+1437579942 c:\users\lpsev\downloads\cg\demos\bezier\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1426372440 c:\users\lpsev\downloads\cg\demos\bezier\include\gl\freeglut_ext.h
+	<stdarg.h>
+
+1589217858 c:\users\lpsev\downloads\cg\demos\bezier\src\vector2.h
+
+1653999607 source:c:\users\lpsev\downloads\cg\demos\bezier\src\main.cpp
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+	<math.h>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	"gl_canvas2d.h"
+
+1589214882 c:\users\lpsev\downloads\cg\demos\bezier\src\bola.h
+	"gl_canvas2d.h"
+
+1193164156 c:\users\lpsev\downloads\cg\demos\bezier\src\relogio.h
+	"gl_canvas2d.h"
+
+1589214891 c:\users\lpsev\downloads\cg\demos\bezier\src\botao.h
+	"gl_canvas2d.h"
+
+1589218349 source:c:\users\lpsev\downloads\cg\demos\bezier\src\relogio.cpp
+	"Relogio.h"
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+
+1589222603 source:c:\users\lpsev\downloads\cg\demos\raniery\src\gl_canvas2d.cpp
+	"gl_canvas2d.h"
+	<GL/glut.h>
+
+1603974868 c:\users\lpsev\downloads\cg\demos\raniery\src\gl_canvas2d.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+	"Vector2.h"
+
+1426372440 c:\users\lpsev\downloads\cg\demos\raniery\include\gl\glut.h
+	"freeglut_std.h"
+
+1437579942 c:\users\lpsev\downloads\cg\demos\raniery\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1426372440 c:\users\lpsev\downloads\cg\demos\raniery\include\gl\freeglut_ext.h
+	<stdarg.h>
+
+1589217858 c:\users\lpsev\downloads\cg\demos\raniery\src\vector2.h
+
+1654378971 source:c:\users\lpsev\downloads\cg\demos\raniery\src\main.cpp
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+	<iostream>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	"Botao.h"
+	"gl_canvas2d.h"
+	"diagramaDegraus.h"
+
+1589218349 source:c:\users\lpsev\downloads\cg\demos\raniery\src\relogio.cpp
+	"Relogio.h"
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+
+1193164156 c:\users\lpsev\downloads\cg\demos\raniery\src\relogio.h
+	"gl_canvas2d.h"
+
+1654459099 source:c:\users\lpsev\downloads\cg\demos\raniery\src\diagramadegraus.cpp
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+	<iostream>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	"gl_canvas2d.h"
+	"diagramaDegraus.h"
+
+1654377870 c:\users\lpsev\downloads\cg\demos\raniery\src\diagramadegraus.h
+	<vector>
+	"gl_canvas2d.h"
+	"Vector2.h"
+
+1654378590 c:\users\lpsev\downloads\cg\demos\raniery\src\botao.h
+	"gl_canvas2d.h"
+	<vector>
+
+1654563069 source:g:\meu drive\cc\7∫ semestre\computa«√o gr¡fica\demos\raniery\src\gl_canvas2d.cpp
+	"gl_canvas2d.h"
+	<GL/glut.h>
+
+1603974870 g:\meu drive\cc\7∫ semestre\computa«√o gr¡fica\demos\raniery\src\gl_canvas2d.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+	"Vector2.h"
+
+1426372440 g:\meu drive\cc\7∫ semestre\computa«√o gr¡fica\demos\raniery\include\gl\glut.h
+	"freeglut_std.h"
+
+1437579942 g:\meu drive\cc\7∫ semestre\computa«√o gr¡fica\demos\raniery\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1426372440 g:\meu drive\cc\7∫ semestre\computa«√o gr¡fica\demos\raniery\include\gl\freeglut_ext.h
+	<stdarg.h>
+
+1654561543 g:\meu drive\cc\7∫ semestre\computa«√o gr¡fica\demos\raniery\src\vector2.h
+
+1654606150 source:g:\meu drive\cc\7∫ semestre\computa«√o gr¡fica\demos\raniery\src\main.cpp
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+	<iostream>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	"Botao.h"
+	"gl_canvas2d.h"
+	"diagramaDegraus.h"
+
+1654606394 g:\meu drive\cc\7∫ semestre\computa«√o gr¡fica\demos\raniery\src\botao.h
+	"gl_canvas2d.h"
+	<vector>
+
+1654562820 g:\meu drive\cc\7∫ semestre\computa«√o gr¡fica\demos\raniery\src\diagramadegraus.h
+	<vector>
+	"gl_canvas2d.h"
+	"Vector2.h"
+
+1589218350 source:g:\meu drive\cc\7∫ semestre\computa«√o gr¡fica\demos\raniery\src\relogio.cpp
+	"Relogio.h"
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+
+1193160556 g:\meu drive\cc\7∫ semestre\computa«√o gr¡fica\demos\raniery\src\relogio.h
+	"gl_canvas2d.h"
+
+1654605969 source:g:\meu drive\cc\7∫ semestre\computa«√o gr¡fica\demos\raniery\src\diagramadegraus.cpp
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+	<iostream>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	"gl_canvas2d.h"
+	"diagramaDegraus.h"
+
+1654605969 source:c:\users\antho\desktop\t1\raniery\src\diagramadegraus.cpp
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+	<iostream>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	"gl_canvas2d.h"
+	"diagramaDegraus.h"
+
+1426372440 c:\users\antho\desktop\t1\raniery\include\gl\glut.h
+	"freeglut_std.h"
+
+1437579942 c:\users\antho\desktop\t1\raniery\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1426372440 c:\users\antho\desktop\t1\raniery\include\gl\freeglut_ext.h
+	<stdarg.h>
+
+1603974870 c:\users\antho\desktop\t1\raniery\src\gl_canvas2d.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+	"Vector2.h"
+
+1654561543 c:\users\antho\desktop\t1\raniery\src\vector2.h
+
+1654562820 c:\users\antho\desktop\t1\raniery\src\diagramadegraus.h
+	<vector>
+	"gl_canvas2d.h"
+	"Vector2.h"
+
+1654563069 source:c:\users\antho\desktop\t1\raniery\src\gl_canvas2d.cpp
+	"gl_canvas2d.h"
+	<GL/glut.h>
+
+1654606150 source:c:\users\antho\desktop\t1\raniery\src\main.cpp
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+	<iostream>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	"Botao.h"
+	"gl_canvas2d.h"
+	"diagramaDegraus.h"
+
+1654606394 c:\users\antho\desktop\t1\raniery\src\botao.h
+	"gl_canvas2d.h"
+	<vector>
+
+1654605969 source:c:\users\antho\desktop\t1_cd_leonardo_piekala_anthony_silva\projeto\src\diagramadegraus.cpp
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+	<iostream>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	"gl_canvas2d.h"
+	"diagramaDegraus.h"
+
+1426372440 c:\users\antho\desktop\t1_cd_leonardo_piekala_anthony_silva\projeto\include\gl\glut.h
+	"freeglut_std.h"
+
+1437579942 c:\users\antho\desktop\t1_cd_leonardo_piekala_anthony_silva\projeto\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1426372440 c:\users\antho\desktop\t1_cd_leonardo_piekala_anthony_silva\projeto\include\gl\freeglut_ext.h
+	<stdarg.h>
+
+1603974870 c:\users\antho\desktop\t1_cd_leonardo_piekala_anthony_silva\projeto\src\gl_canvas2d.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+	"Vector2.h"
+
+1654561543 c:\users\antho\desktop\t1_cd_leonardo_piekala_anthony_silva\projeto\src\vector2.h
+
+1654562820 c:\users\antho\desktop\t1_cd_leonardo_piekala_anthony_silva\projeto\src\diagramadegraus.h
+	<vector>
+	"gl_canvas2d.h"
+	"Vector2.h"
+
+1654563069 source:c:\users\antho\desktop\t1_cd_leonardo_piekala_anthony_silva\projeto\src\gl_canvas2d.cpp
+	"gl_canvas2d.h"
+	<GL/glut.h>
+
+1654606150 source:c:\users\antho\desktop\t1_cd_leonardo_piekala_anthony_silva\projeto\src\main.cpp
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+	<iostream>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	"Botao.h"
+	"gl_canvas2d.h"
+	"diagramaDegraus.h"
+
+1654606394 c:\users\antho\desktop\t1_cd_leonardo_piekala_anthony_silva\projeto\src\botao.h
+	"gl_canvas2d.h"
+	<vector>
+
